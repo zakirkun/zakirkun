@@ -18,7 +18,7 @@ Database Usage :
 
 - MySql
 - MongoDB
-- PostgeSql
+- PostgreSql
 - Oracle
 
 Framework Usage : 
