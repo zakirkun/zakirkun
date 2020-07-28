@@ -1,16 +1,38 @@
-### Hi there 👋
+Web Developer & DevOps
 
-<!--
-**zakirkun/zakirkun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![github stats](https://github-readme-stats.vercel.app/api?username=zakirkun&show_icons=true)
 
-Here are some ideas to get you started:
+About me **Muhammad Zakir Ramadhan**!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Skill :
+
+- PHP
+- JavaScript
+- TypeScript
+- SysAdmin
+- Design Using Figma
+
+Database Usage : 
+
+- MySql
+- MongoDB
+- PostgeSql
+- Oracle
+
+Framework Usage : 
+
+- CodeIgniter
+- Laravel
+
+---
+
+Work Experiences :
+
+- PT Produk Ekslusif Indonesia ( Website Developer )
+- CV Air Solution ( Website Developer )
+- PT Kerjasama Untuk Negri ( Staff Backend )
+
+---
+ 
