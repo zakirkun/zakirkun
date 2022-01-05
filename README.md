@@ -34,8 +34,5 @@ Work Experiences :
 - CV Air Solution ( Website Developer )
 - PT Kerjasama Untuk Negri ( Staff Backend )
 
-
-@OSSDAO-ORG•AIRDROP-0x195f2c11DBFd15aA0F38d110f19d8786E3734883
-
 ---
- 
+@OSSDAO-ORG•AIRDROP-0x195f2c11DBFd15aA0F38d110f19d8786E3734883 
