@@ -2,9 +2,9 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on PT InKanteen Technology Solutions
+- 🔭 I’m currently working on DigiAsia Bios
 - 🌱 I’m currently learning Python,Golang,PHP,NodeJs
-- 👯 I’m currently contribute on InKanteen Project
+- 👯 I’m currently contribute on self project
 - ⚡ Fun fact: Anime Lovers & Modern Application Enthusiast
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=zakirkun&show_icons=true&theme=radical)
