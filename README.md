@@ -22,3 +22,5 @@
 | ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=zakirkun&layout=compact&theme=nightowl) | [![trophy](https://github-profile-trophy.vercel.app/?username=zakirkun&theme=onedark)](https://github.com/zakirkun) | 
 
 ![Github activity graph](https://activity-graph.herokuapp.com/graph?username=zakirkun&theme=xcode&area=true&hide_border=true)
+
+![counter](https://count.getloli.com/get/@zakirkun-github-readme?theme=rule34)
