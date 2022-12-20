@@ -3,7 +3,7 @@
 
 ### Hi I'm Zakir!
 
-- 🔭 I’m currently working on [@DigiAsia BIOS](https://www.digiasia.asia/)
+- 🔭 I’m Middleware Engineer working on [@DigiAsia BIOS](https://www.digiasia.asia/)
 - 🌱 I’m currently learning Python,Golang,PHP,NodeJs
 - 👯 I’m currently contribute on self project
 - ⚡ Fun fact: Anime Lovers & Modern Application Enthusiast
