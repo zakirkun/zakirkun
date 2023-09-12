@@ -1,5 +1,7 @@
-#
+# Import My Public Keys
+```
+$ curl -s https://github.com/zakirkun.gpg | gpg --import
+```
 
 **あかせ あかり** Supremacy 🫶🏻.
 
-[![committers.top badge](https://user-badge.committers.top/indonesia/zakirkun.svg)](https://user-badge.committers.top/indonesia/zakirkun)
